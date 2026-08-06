@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/reshape-a-numpy-array/1?page=2&category=python&sortBy=submissions">Reshape a Numpy Array</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="" data-start="1207" data-end="1326"><span style="font-size: 18.6667px;">Given a 1-dimensional NumPy array <strong>arr</strong> of size <strong>n</strong> and two integers <strong>rows</strong> and<strong> cols</strong>, convert the array into a 2-dimensional array of size rows × cols.</span></p>
+<h3 class="" data-start="1480" data-end="1492"><span style="font-size: 14pt;">Examples:</span></h3>
+<pre data-start="1494" data-end="1504"><span style="font-size: 18.6667px;"><strong>Input: </strong>arr = np.array([1, 2, 3, 4, 5, 6]), rows = 2, cols = 3<strong>
+Output: </strong>array([[1, 2, 3],[4, 5, 6]])<strong>
+Explanation: </strong>The array [1, 2, 3, 4, 5, 6] is reshaped into a matrix with 2 rows and 3 columns.</span></pre>
+<pre data-start="1575" data-end="1586"><span style="font-size: 18.6667px;"><strong>Input: </strong>arr = np.array([1, 2, 3, 4, 5, 6, 7, 8]), rows = 4, cols = 2<strong>
+Output:</strong> array([[1, 2],[3, 4],[5, 6],[7, 8]])<strong>
+Explanation: </strong>The array is reshaped into a matrix with 4 rows and 2 columns.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python</code>&nbsp;
