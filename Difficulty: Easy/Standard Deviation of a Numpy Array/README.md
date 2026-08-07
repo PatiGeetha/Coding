@@ -1,0 +1,8 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/find-the-standard-deviation-of-a-numpy-array/1?page=2&category=python&sortBy=submissions">Standard Deviation of a Numpy Array</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p class="" data-start="3435" data-end="3536"><span style="font-size: 18.6667px;">Given a 1-dimensional NumPy array <strong>arr</strong> of size <strong>n</strong>, find the standard deviation of all elements present in the array. The standard deviation measures the amount of variation or dispersion of the elements from their mean.</span></p>
+<h3 class="" data-start="3600" data-end="3612"><span style="font-size: 14pt;">Examples:</span></h3>
+<pre data-start="3614" data-end="3624"><span style="font-size: 18.6667px;"><strong>Input: </strong>arr = np.array([1, 2, 3, 4, 5])<strong>
+Output: </strong>1.4142135623730951<strong>
+Explanation:</strong> The standard deviation of the elements in the array [1, 2, 3, 4, 5] is approximately 1.4142135623730951.</span></pre>
+<pre data-start="3674" data-end="3685"><span style="font-size: 18.6667px;"><strong>Input: </strong>arr = np.array([2, 2, 2, 2])<strong>
+Output: </strong>0.0<strong>
+Explanation:</strong> All elements are equal, so the standard deviation is 0.0.</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>python</code>&nbsp;
